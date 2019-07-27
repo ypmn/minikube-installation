@@ -1,4 +1,4 @@
-# minikube-installation
+# minikube-k8s-installation
 Installation of Minikube on EC2 Ubuntu
 
 1. Install kubectl
