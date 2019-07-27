@@ -34,7 +34,8 @@ minikube version
 
 ######################                            Become a root user.
 
-5.sudo -i
+5. if you want 
+sudo -i
 
 
 If you are not comfortable running commands as root, you must always add sudo before the commands minikube and kubectl.
